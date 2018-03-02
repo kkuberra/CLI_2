@@ -1,12 +1,1 @@
-  403  mkdir site
-  404  cd site
-  405  touch index.html
-  406  mkdir pages
-  407  cd pages
-  408  touch about.html
-  409  nano about.html
-  410  mv about.html ../
-  411  ls
-  412  rm -rf pages
-  413  ../
-  414  rm -rf site
+
